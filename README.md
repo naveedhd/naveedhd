@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hallo Leute 👋
+
+I am a Software Engineer who worked in robotics currently working on backend and distrubuted services.
 
 <!--
 **naveedhd/naveedhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
